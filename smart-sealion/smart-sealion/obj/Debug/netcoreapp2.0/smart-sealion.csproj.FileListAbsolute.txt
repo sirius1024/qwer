@@ -1,0 +1,11 @@
+/Users/sirius/Desktop/qwer/smart-sealion/smart-sealion/bin/Debug/netcoreapp2.0/smart-sealion.deps.json
+/Users/sirius/Desktop/qwer/smart-sealion/smart-sealion/bin/Debug/netcoreapp2.0/smart-sealion.runtimeconfig.json
+/Users/sirius/Desktop/qwer/smart-sealion/smart-sealion/bin/Debug/netcoreapp2.0/smart-sealion.runtimeconfig.dev.json
+/Users/sirius/Desktop/qwer/smart-sealion/smart-sealion/bin/Debug/netcoreapp2.0/smart-sealion.dll
+/Users/sirius/Desktop/qwer/smart-sealion/smart-sealion/bin/Debug/netcoreapp2.0/smart-sealion.pdb
+/Users/sirius/Desktop/qwer/smart-sealion/smart-sealion/obj/Debug/netcoreapp2.0/smart-sealion.csprojResolveAssemblyReference.cache
+/Users/sirius/Desktop/qwer/smart-sealion/smart-sealion/obj/Debug/netcoreapp2.0/smart-sealion.csproj.CoreCompileInputs.cache
+/Users/sirius/Desktop/qwer/smart-sealion/smart-sealion/obj/Debug/netcoreapp2.0/smart-sealion.AssemblyInfoInputs.cache
+/Users/sirius/Desktop/qwer/smart-sealion/smart-sealion/obj/Debug/netcoreapp2.0/smart-sealion.AssemblyInfo.cs
+/Users/sirius/Desktop/qwer/smart-sealion/smart-sealion/obj/Debug/netcoreapp2.0/smart-sealion.dll
+/Users/sirius/Desktop/qwer/smart-sealion/smart-sealion/obj/Debug/netcoreapp2.0/smart-sealion.pdb
